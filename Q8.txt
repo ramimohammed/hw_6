@@ -1,0 +1,32 @@
+Q / 8
+
+when i try to create an alias in my machine  but its dosnt works
+
+
+
+
+Last login: Thu Mar  2 18:58:41 on ttys001
+ramis-MacBook-Pro:~ ramimohammed$ date
+Thu Mar  2 19:04:37 CST 2017
+ramis-MacBook-Pro:~ ramimohammed$ time
+
+real	0m0.000s
+user	0m0.000s
+sys	0m0.000s
+ramis-MacBook-Pro:~ ramimohammed$ cd alias
+-bash: cd: alias: No such file or directory
+ramis-MacBook-Pro:~ ramimohammed$ alias
+ramis-MacBook-Pro:~ ramimohammed$ rami a
+-bash: rami: command not found
+ramis-MacBook-Pro:~ ramimohammed$ date show
+date: illegal time format
+usage: date [-jnRu] [-d dst] [-r seconds] [-t west] [-v[+|-]val[ymwdHMS]] ... 
+            [-f fmt date | [[[mm]dd]HH]MM[[cc]yy][.ss]] [+format]
+ramis-MacBook-Pro:~ ramimohammed$ date | ## ramidate
+> ls
+Applications	Documents	Library		Music		Public
+Desktop		Downloads	Movies		Pictures	ramipro
+ramis-MacBook-Pro:~ ramimohammed$ vm
+-bash: vm: command not found
+ramis-MacBook-Pro:~ ramimohammed$ vim
+

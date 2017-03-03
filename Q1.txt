@@ -1,0 +1,9 @@
+||Q1     1= true;    0=false;
+
+A1 and B0 and C0 = red  this statement is executable.
+A1 and A0 = orange  this statement is unexecutable because of A has tow diff Values .
+A1 and B0 and C1= green  this statement is executable.
+coler = yellow  the statment should be  A0 and B0 and C0
+
+
+

@@ -1,0 +1,4 @@
+||Q2   1= true;    0=false;
+A1 or B0 or C0 = red  this statement is unexecutable. because of "A" the condition "or" their is no way to maik it executable
+A1 or B0 or C1 = green  this statement is unexecutable. because of "A" and the condition "or" their is no way to maik it executable
+color= yellow  there is no way to make it executable  eccept   (A0 or A1) and B1 and C1   by change the condition from "or" to "and" 
